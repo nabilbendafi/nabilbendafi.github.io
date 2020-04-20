@@ -3,8 +3,8 @@ layout: post
 title: Ascii art filter in Zoom
 subtitle: It smells like poop.
 tags: [video, zoom, linux, libcaca]
-image: https://lh3.googleusercontent.com/proxy/37hNtZzCYk27EYDzoRsPiARLy05MSz27DQjFJFKhofy8PJIl1A_XHh1uDg65wdXSSqYv4Uy-Jz5xi6wmHX-MaRDjVA
-share-img: https://lh3.googleusercontent.com/proxy/37hNtZzCYk27EYDzoRsPiARLy05MSz27DQjFJFKhofy8PJIl1A_XHh1uDg65wdXSSqYv4Uy-Jz5xi6wmHX-MaRDjVA
+image: http://caca.zoy.org/static/libcaca-logo.png
+share-img: http://caca.zoy.org/static/libcaca-logo.png
 ---
 
 During [COVID-19](https://en.wikipedia.org/wiki/Coronavirus_disease_2019) confinement, I had to use [Zoom](https://zoom.us/) to my daily chats and meeting with colleagues.
