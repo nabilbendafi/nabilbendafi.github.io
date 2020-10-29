@@ -238,7 +238,7 @@ Enter visual mode, and press `i` to update first `c4` by `cc`. Press `q` to quit
 
 And start the ROM in emulator...
 
-[Checksum error!](/img/super_connard-checksum_error.png).
+![Checksum error!](/img/super_connard-checksum_error.png).
 
 Damned ! It seems that there is some checksum protection.
 
@@ -301,7 +301,9 @@ Start the ROM in emulator, and cross fingers...
 
 Voilà !
 
-![Super connard](video/super_connard.webm)
+![Super connard](/img/super_connard.png)
+
+[Intro](/video/super_connard.webm)
 
 # References
  - [Reverse engineering a Gameboy ROM with radare2](https://www.megabeets.net/reverse-engineering-a-gameboy-rom-with-radare2)
